@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mez_que" target="blank"><img src="https://img.shields.io/twitter/follow/mez_que?logo=twitter&style=for-the-badge" alt="mez_que" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/mez_que" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mez_que" height="30" width="40" /></a>
 </p>
