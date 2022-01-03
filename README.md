@@ -1,6 +1,6 @@
 <h3 align="center">I'm learning trust me</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mezque-ma&theme=onedark" alt="My Github Trophy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mezque" alt="My Github Trophy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mez_que" target="blank"><img src="https://img.shields.io/twitter/follow/mez_que?logo=twitter&style=for-the-badge" alt="mez_que" /></a> </p>
 
