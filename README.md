@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mezque&no-frame=true&theme=tokyonight" alt="My Github Trophy" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mezque&show_icons=true&theme=tokyonight&locale=en" alt="My Github Stats"</p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mezque&show_icons=true&theme=tokyonight&locale=en" alt="My Github Stats" /></p>
 
 <h3 align="center">Socials</h3>
 <p align="center">
