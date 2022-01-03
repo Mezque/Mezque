@@ -9,9 +9,9 @@
 
 <h3 align="center">Socials</h3>
 <p align="center">
-<a href="https://twitter.com/mez_que" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mez_que" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mezque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mezque" height="30" width="40" /></a>
-<a href="https://discord.gg/SgS4ujCw4S" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SgS4ujCw4S" height="30" width="40" /></a>
+<a href="https://twitter.com/mez_que" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mez_que" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mezque" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mezque" height="30" width="40" /></a>
+<a href="https://discord.gg/SgS4ujCw4S" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SgS4ujCw4S" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages & Tools</h3>
