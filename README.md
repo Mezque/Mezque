@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-<h3 align="center">Welcome to my github page, I'm slowly learning trust me. :trollface: /h3>
+<h3 align="center">Welcome to my github page, I'm slowly learning trust me./h3> :trollface:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mezque" alt="My Github Trophy" /></a> </p>
 
