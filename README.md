@@ -3,8 +3,6 @@
 <h1 align="center">:trollface: Welcome to my github page, I'm slowly learning trust me. :trollface: </h1>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mezque&no-frame=true&theme=tokyonight" alt="My Github Trophy" /></a> </p>
-<h1 align="center"></h1>
-
 <p align="center"> &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mezque&show_icons=true&theme=tokyonight&locale=en" alt="My Github Stats" />
 &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezque&layout=compact&theme=tokyonight&locale=en" alt="My Github Stats" /></p>
 <h1 align="center"></h1>
